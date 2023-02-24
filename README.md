@@ -11,3 +11,12 @@ This dataset consists of a nearly 3000 Amazon customer reviews (input text), sta
 - Variation: This column shows which product has been commented on.
 - Verified_rewiews: User comments
 - Feedback: This column indicates whether user comments are positive or negative. 1 is positive comment, 0 is negative comment.
+
+## Skills and Tools Used 
+- Exploratory Data analysis (Variable Identification, Univariate analysis, Bi-Variate analysis)
+
+## Libraries Used 
+- Pandas
+- Numpy
+- Seaborn 
+- Matplotlip
